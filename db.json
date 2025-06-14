@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "nUr626jmn4IdBHcsX6zYn",
+      "title": "Commodo ad harum rem",
+      "price": "341",
+      "category": "men's clothing",
+      "url": "https://www.coz.com.au",
+      "description": "Aliquid eligendi sus"
+    }
+  ],
+  "users": [
+    {
+      "id": "ailsjolwef7897",
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "password": 12345678
+    },
+    {
+      "id": "o76_Ztf9WEa4rYYYGdArT",
+      "name": "admin",
+      "email": "admin@mark.com",
+      "password": "12345678",
+      "isAdmin": false
+    }
+  ],
+  "cart": []
+}
